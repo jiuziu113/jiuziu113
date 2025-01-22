@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=shark&color=F5BB96&height=90&section=header&text=Front-End&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=shark&color=F5BB96&section=header&text=Front-End&fontSize=90" />
 
 
 ## Hi there 👋
