@@ -4,7 +4,7 @@
 ## Hi there 👋
 
 
-**jiuziu113/jiuziu113** is a ✨ _special_ ✨ repository.
+**This** is a ✨ _special_ ✨ repository.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
