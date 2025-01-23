@@ -5,16 +5,12 @@
 
 
 This is a ✨ _special_ ✨ repository.
- <h3>:heart:</h3> 
- <h3>:yellow_heart:</h3> 
-  <h3>:green_heart:</h3> 
-   <h3>:blue_heart:</h3> 
-    <h3>:purple_heart:</h3> 
-     <h3>:imp:</h3> 
-
-
-
-
+ <div>:heart:</div> 
+ <div>:yellow_heart:</div> 
+  <div>:green_heart:</div> 
+   <div>:blue_heart:</div> 
+    <div>:purple_heart:</div> 
+     <div>:imp:</div> 
 
 
 - 🔭 I’m currently working on ... **Embodied AI 사업부 / 프론트엔드팀**
