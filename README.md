@@ -14,7 +14,7 @@ This is a ✨ _special_ ✨ repository.
      <div>:imp:</div> 
 
 
- 🔭 I’m currently working on ... **Embodied AI 사업부 / 프론트엔드팀**
+ 🔭 I’m currently working on ... **Embodied AI 사업부 / 프론트엔드팀** <br/>
  📫 How to reach me: ... **jiuziu@maum.ai**
 
 
