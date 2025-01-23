@@ -1,3 +1,4 @@
+ <div align=center>
 <img src="https://capsule-render.vercel.app/api?type=shark&color=F5BB96&section=header&fontSize=90" />
 
 
@@ -17,5 +18,5 @@ This is a ✨ _special_ ✨ repository.
 - 📫 How to reach me: ... **jiuziu@maum.ai**
 
 
-
+ </div>
 
