@@ -11,4 +11,5 @@ This is a ✨ _special_ ✨ repository.
 - 📫 How to reach me: ... **jiuziu@maum.ai**
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiuziu113&show_icons=true&theme=radical)
+<img src="https://capsule-render.vercel.app/api?type=shark&color=F5BB96&section=footer&fontSize=90" />
+
