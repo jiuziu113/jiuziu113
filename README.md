@@ -5,6 +5,7 @@
 ## Hi there 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=This is a ✨ _special_ ✨ repository.](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=This is a ✨ _special_ ✨ repository.)]
 
  <div>:heart:</div> 
  <div>:yellow_heart:</div> 
