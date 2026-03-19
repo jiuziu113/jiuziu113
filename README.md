@@ -1,5 +1,8 @@
  <div align=center>
-<img src="https://capsule-render.vercel.app/api?type=shark&color=F5BB96&section=header&fontSize=90" />
+<div align= "center">
+    <img src="https://capsule-render.vercel.app/api?type=shark&color=e88282&height=180&text=&animation=&fontColor=000000&fontSize=70" />
+    </div>
+    
 
 
 ## Hi there 👋
